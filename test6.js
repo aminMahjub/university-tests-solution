@@ -8,6 +8,4 @@ for (let i = 0; i < twoNumbersConcatenation.length; i++) {
     else oddDigit.push(twoNumbersConcatenation[i]);
 }
 
-// 1234453224
-// 2 4 4 2 2 4
 console.log(`Even number is ${evenDigit.join('')}\nOdd number is ${oddDigit.join('')}`);
