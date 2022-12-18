@@ -1,3 +1,4 @@
+//write a program that gets the number and then does'nt show zero digits
 const number = 102300;
 let convertToArray = Array.from(String(number), Number);
 
