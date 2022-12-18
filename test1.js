@@ -1,6 +1,5 @@
 //write a program that gives some number and until their sum less than 1000 and then 
 // calculate average of numbers
-
 // inputs are is an example
 const numbers = [120, 400, 600];
 let avarage;

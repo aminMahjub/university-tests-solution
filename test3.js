@@ -1,5 +1,4 @@
 //write a program that returns reverse of the number
-
 const number = 12323;
 let convertToArray = Array.from(String(number));
 let result = Array.from(String(number));

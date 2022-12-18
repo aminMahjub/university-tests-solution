@@ -1,5 +1,4 @@
 // write a program that gets the number and returns even and odd of the number's digit
-
 const number = 456758793;
 let convertToArray = Array.from(String(number), Number);
 
